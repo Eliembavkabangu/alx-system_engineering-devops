@@ -1,1 +1,1 @@
-script that creates a new local variable
+script that prints the result of POWER divided by DIVIDE, followed by a new line
